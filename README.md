@@ -1,5 +1,3 @@
-# Uninstallation-Guide.-Md
-
 # Uninstallation Guide
 
 **Version**: 1.0  
